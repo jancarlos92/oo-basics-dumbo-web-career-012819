@@ -1,3 +1,6 @@
+require_relative '../lib/shoe'
+
+
 describe 'Shoe' do
   let(:shoe) { Shoe.new("Nike") }
 
